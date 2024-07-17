@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.ContenierMedmeHomiylar {
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+
+
+.MedmeHomiylar {
+    width: 90%;
+    height: 90vh;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.MedmeHomiylarBolimi1 {
+    width: 100%;
+    height: 150px;
+    background: none;
+    display: flex;
+}
+
+
+
+
+.MedmeHomiylarBolimi2 {
+    width: 100%;
+    height: 150px;
+    background: none;
+    display: flex;
+}
+
+
+.MedmeHomiylarBolimi3 {
+    width: 100%;
+    height: 150px;
+    background: none;
+    display: flex;
+}
+
+
+.MedmeHomiylarBolimi4 {
+    width: 100%;
+    height: 150px;
+    background: none;
+    display: flex;
+}
+
+
+.MedmeHomiylarBolimizBox1 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox2 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox3 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox4 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox5 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox6 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox7 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox8 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.MedmeHomiylarBolimizBox9 {
+    width: 150px;
+    height: 150px;
+    background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
